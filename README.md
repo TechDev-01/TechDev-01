@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Steban and I'm a developer fascinated by the low level programming.</p>
+<p align="left">My name is Steban and I'm a developer fascinated by the low level and back-end programming.</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C</p>
+<p align="left">✨ Hi, I'm Steban! 👋  
+
+🔹 **Back-end Developer** passionate about optimization and efficient code.  
+🔹 I enjoy working with **C, JavaScript, Vue, and Express.js** to create efficient solutions.  
+</p>
 
 ###
 
