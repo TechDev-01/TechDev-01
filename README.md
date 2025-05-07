@@ -13,7 +13,7 @@
 <p align="left">✨ Hi, I'm Steban! 👋  
 
 🔹 **Back-end Developer** passionate about optimization and efficient code.  
-🔹 I enjoy working with **C, JavaScript, Vue, and Express.js** to create efficient solutions.  
+🔹 I enjoy working with **C, JavaScript and Express.js** to create efficient solutions.  
 </p>
 
 ###
